@@ -234,15 +234,15 @@ export function DelayDashboard() {
             </div>
             <div className="flex-1">
               <p className="text-sm text-gray-500 mb-1">
-                Patienten können die aktuelle Wartezeit über diesen QR-Code abrufen:
+                Patienten können die aktuelle Wartezeit über diesen QR-Code abrufen
               </p>
               <a
                 href={'/p/' + practice.id}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-sm text-blue-600 underline break-all"
+                className="text-sm text-blue-600 underline"
               >
-                {patientUrl}
+                Link
               </a>
               <div className="mt-3">
                 <Button
