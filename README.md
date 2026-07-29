@@ -8,7 +8,7 @@ Web-App für MPA/Empfang: Verzögerungen pro Arzt oder praxisweit in Echtzeit ve
 
 ## Features
 - Login via Supabase Auth (E-Mail/Passwort)
-- **Pro Arzt** oder **Praxisweit** Modus
+- **Pro Arzt** oder **Praxisweit* Modus
 - Verzögerung 0–180 Min, 5-Min-Schritte (Quickbuttons ±5/±15 + Dropdown)
 - Sofortspeicherung, 30-Sek. Auto-Refresh, relative Zeitanzeige ("vor X Min")
 - Mobile-responsive, RLS pro Praxis
