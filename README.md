@@ -17,7 +17,7 @@ Web-App für MPA/Empfang: Verzögerungen pro Arzt oder praxisweit in Echtzeit ve
 
 ## Setup
 
-### 1. Supabase
+### 1. Supabas
 ### 2. MPA-User anlegen
 
 ## DB-Schema
